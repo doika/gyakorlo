@@ -1,0 +1,2 @@
+# gyakorlo
+feladatok gyakorlása
